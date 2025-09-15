@@ -60,13 +60,13 @@ in the instructions below.
 Choose one member of your team to make a fork of
 https://github.com/CSC207-2025F-UofT/lab2-multiset-adt.
 
-- [ ] The repository owner can then add the other members as collaborators of this repository
+- [X] The repository owner can then add the other members as collaborators of this repository
   so that everyone has access to it. This is so that your team has a shared remote repo to which
   your group can all contribute.
 
 ---
 
-- [ ] Get a local copy of this remote repo.
+- [X] Get a local copy of this remote repo.
   You can do this by either method from last week: git clone <url>
   or creating a new project from version control in IntelliJ.
 
