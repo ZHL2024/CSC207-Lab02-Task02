@@ -72,7 +72,7 @@ https://github.com/CSC207-2025F-UofT/lab2-multiset-adt.
 
 ---
 
-- [ ] Take the time to skim the rest of the instructions to get a better sense of what you'll be doing
+- [X] Take the time to skim the rest of the instructions to get a better sense of what you'll be doing
   in this activity. If you have any immediate questions, raise these with your group or ask your TA.
 
 ---
